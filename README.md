@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GabeMike52
 - 👀 I’m interested in rpg's and strategy games.
-- 🌱 I’m currently learning the basics of JavaScript language, so, yet a beginner. Also starting in Webdesign with HTML and CSS.
+- 🌱 I’m currently learning the basics of JavaScript language, so, yet a beginner. Webdesigner.
 - 💞️ I’m looking to collaborate on anything that interests me if I am able to.
 - 📫 Instagram: https://www.instagram.com/gabmcarneiro/
 <!---
