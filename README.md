@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @GabeMike52
+- 👋 Hi, I’m Gabriel Carneiro.
 - 👀 I’m interested in rpg's and strategy games.
-- 🌱 I’m currently learning the basics of JavaScript language, so, yet a beginner. Webdesigner.
-- 💞️ I’m looking to collaborate on anything that interests me if I am able to.
+- 🌱 Learning front-end development.
 - 📫 Instagram: https://www.instagram.com/gabmcarneiro/
 <!---
 GabeMike52/GabeMike52 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
