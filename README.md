@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Gabriel Carneiro.
-- 👀 I’m interested in rpg's and strategy games.
-- 🌱 Learning front-end development.
-- 📫 Instagram: https://www.instagram.com/gabmcarneiro/
-<!---
-GabeMike52/GabeMike52 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi! I’m Gabriel Carneiro.
+#
+##
+### Instagram
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white&color=blue"> [Gabriel Carneiro] (https://www.instagram.com/gabmcarneiro/) <br>
