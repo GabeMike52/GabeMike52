@@ -12,3 +12,10 @@
   <a href="https://www.instagram.com/gabmcarneiro/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Instagram-%23191970?style=for-the-badge&logo=instagram&logoColor=aliceblue"></a>
   <a href="https://www.linkedin.com/in/gabriel-miqueias-carneiro-13464a226/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-%23191970?style=for-the-badge&logo=LinkedIn&logoColor=aliceblue"></a>
 </div>
+
+<h1>Skills</h1>
+<div>
+  <img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img width="4.9%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
