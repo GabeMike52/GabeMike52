@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00072D,100:2A9DF4&height=150&section=header&text=I’m%20Gabriel&animation=blinking&fontSize=90&fontColor=D0EFFF"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00072D,100:2A9DF4&height=150&section=header&text=I’m%20Gab&animation=twinkling&fontSize=60&fontColor=D0EFFF"/>
 </div>
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabeMike52&show_icons=true&count_private=true&hide_border=true&title_color=1167B1&icon_color=1167B1&text_color=c9d1d9&bg_color=0d1117"alt="Gabriel Carneiro stats" />
