@@ -15,14 +15,14 @@
 
 <h1>Skills</h1>
 <div>
-  <a href="https://www.w3schools.com/html/"><img width="10%" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-  <a href="https://www.w3schools.com/css/"><img width="8.9%" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img width="14.3%" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+  <a href="https://www.w3schools.com/html/"><img width="11%" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+  <a href="https://www.w3schools.com/css/"><img width="9.55%" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img width="15.685%" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+  <a href="https://www.typescriptlang.org/"><img width="15.685%" alt="Static Badge" src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white&logoSize=auto&color=blue"></a>
+  <a href="https://nodejs.org/en"><img width="10.05%" src="https://img.shields.io/badge/node-green?style=for-the-badge&logo=Node.js&logoColor=white"></a>
   <br>
   <h3>Studying</h3>
     <div>
-    <a href="https://nodejs.org/en"><img width="10%" src="https://img.shields.io/badge/Node%20-%20NodeJS?style=for-the-badge&logo=node.js&color=black"></a>
     <a href="https://deno.com/"><img width="10%" alt="Static Badge" src="https://img.shields.io/badge/DENO-black?style=for-the-badge&logo=deno&logoSize=auto&color=black"></a>
-    <a href="https://www.typescriptlang.org/"><img width="14.3%" alt="Static Badge" src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white&logoSize=auto&color=blue"></a>
     </div>
 </div>
