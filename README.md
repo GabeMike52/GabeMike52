@@ -23,6 +23,7 @@
   <br>
   <h3>Studying</h3>
     <div>
-    <a href="https://deno.com/"><img width="10%" alt="Static Badge" src="https://img.shields.io/badge/DENO-black?style=for-the-badge&logo=deno&logoSize=auto&color=black"></a>
+    <a href="https://spring.io/projects/spring-boot"><img width="16.45%" src="https://img.shields.io/badge/springboot-white?style=for-the-badge&logo=springboot"></a>
+    <a href="https://docs.oracle.com/en/java/"><img width="9.55%" src="https://img.shields.io/badge/java-orange?style=for-the-badge&logo=openjdk"></a>
     </div>
 </div>
